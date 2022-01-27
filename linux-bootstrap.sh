@@ -1,7 +1,6 @@
 #!/bin/bash
 #date
 #author
-#purpose
 
 sudo apt-get update
 
