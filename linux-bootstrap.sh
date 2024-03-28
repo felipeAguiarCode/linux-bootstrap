@@ -15,7 +15,7 @@ sudo apt-get install git -y
 
 echo "What name do you want to use in GIT user.name?"
 read git_config_user_name
-git config --global user.email $git_config_user_name
+git config --global user.name $git_config_user_name
 
 echo "What email do you want  to use in GIT user.email?"
 read git_config_user_email
